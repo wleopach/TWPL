@@ -76,12 +76,12 @@ self.__precacheManifest = [
     "url": "/TWPL/static/media/img-1.8b073cf7.jpg"
   },
   {
-    "revision": "80e52295922c70fdaa79d54afe26e883",
-    "url": "/TWPL/static/media/bg-home.80e52295.jpg"
-  },
-  {
     "revision": "d0b8f70643b398774a14ebe4e56bbdcb",
     "url": "/TWPL/static/media/img-2.d0b8f706.jpg"
+  },
+  {
+    "revision": "80e52295922c70fdaa79d54afe26e883",
+    "url": "/TWPL/static/media/bg-home.80e52295.jpg"
   },
   {
     "revision": "07c9babb2e101fa952538a5cf85258c5",
